@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Titulos 4';
+  src: url(../Fonts/zai-olivetti-lettera-22-typewriter.regular.ttf);
+}
+
+h1 {
+  font-family: 'Titulos 4';
+}
+
+#wrapper {
+  background-image: url("../Images/Dark-Souls-game.jpg");
+}

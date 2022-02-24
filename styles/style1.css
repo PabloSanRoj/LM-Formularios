@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Titulos';
+  src: url("../Fonts/zai-olivetti-lettera-22-typewriter.regular.ttf");
+}
+
+.login {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url("../Images/Imagen1.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.login-heading {
+  font-weight: 300;
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+
+h1 {
+  font-family: Titulos;
+}
